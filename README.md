@@ -81,15 +81,15 @@ Tech Stack: C++, Arduino Nano, JavaScript
 
 ## 🎯 Currently Exploring
 - 🤖 Building production-grade AI bots with RAG + GPT-4
-- 🌐 Exploring Astro, Vite, and serverless architectures
+- 🌐 Exploring Vite, Automation and serverless architectures
 - 🧠 Reading about system design & large-scale architecture
 
 ---
 
 ## 📬 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jhunesencarguez)
-- 🧑‍💻 [GitHub](https://github.com/jhunesencarguez)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jhunes-encarguez-3ba806171/)
+- 🧑‍💻 [GitHub](https://github.com/guileston13)
 - ✉️ jhunesencarguez@gmail.com
 
 ---
