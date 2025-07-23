@@ -39,10 +39,10 @@ I specialize in **PHP**, **JavaScript**, **Node.js**, and modern **AI/LLM soluti
 **Databases & DevOps:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipeline-blue?style=flat&logo=wrench&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 **AI & Research:**  
