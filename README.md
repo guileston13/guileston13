@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Jhunes Encarguez</h1>
-<h3 align="center">🧑‍💻 Full-Stack Web & AI Developer | PHP, Node, Laravel, AI Systems 🚀</h3>
+<h3 align="center">🧑‍💻 Full-Stack Web & AI Developer | PHP, Node, React, AI Systems 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Innovative%20Full-stack%20Developer;AI-Powered%20Solutions%20Builder;Backend%20Wizard%20%F0%9F%9A%80;Always%20Learning%20New%20Things%20%E2%9C%A8&center=true&width=600&height=45&pause=1000&color=F97316&vCenter=true&size=22" />
@@ -9,11 +9,13 @@
 
 ## 💡 About Me
 
-Hi, I'm **Jhunes**, a passionate and versatile full-stack developer with **6+ years** of experience building scalable, high-performance web applications and custom software. I specialize in **PHP**, **JavaScript**, and modern **AI-powered solutions** like **GPT**, **RAG systems**, and **AI video generation**.
+Hi, I'm **Jhunes**, a passionate and versatile full-stack developer with **6+ years** of experience building **microservices**, **RESTful API integrations**, and scalable systems using technologies like **Docker**, **CI/CD pipelines**, and **AWS/GCP** cloud platforms.
 
-- 🧠 Loves solving real-world problems using code
-- ⚙️ Obsessed with clean backend architecture and performance
-- 🤖 Recently building AI-based tools and exploring GPT-4 integrations
+I specialize in **PHP**, **JavaScript**, **React**, **Node.js**, and modern **AI/LLM solutions** like **GPT-4**, **LangChain**, and **Transformer models**. Recently, I've been focused on **prompt engineering**, **vector database integration**, and building real-world AI products using **Python**, **TFLite**, and **Next.js**.
+
+- 🧠 Loves solving real-world problems using code and machine intelligence  
+- ⚙️ Obsessed with clean backend architecture and high-performance API design  
+- 🤖 Recently building AI tools with **RAG**, **LangChain**, and **LLMs**  
 - 🧩 Open to freelance and full-time opportunities worldwide
 
 ---
@@ -27,42 +29,51 @@ Hi, I'm **Jhunes**, a passionate and versatile full-stack developer with **6+ ye
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-**Frameworks:**  
+**Frameworks & Libraries:**  
 ![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=flat&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-E44D26?style=flat&logo=codeigniter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
 **Databases & DevOps:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 **AI & Research:**  
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-System-blueviolet)
+![LangChain](https://img.shields.io/badge/LangChain-00B4D8?style=flat)
+![VectorDB](https://img.shields.io/badge/Vector-DB-blueviolet)
+![Prompt Engineering](https://img.shields.io/badge/Prompt--Engineering-FACC15?style=flat)
+![LLM](https://img.shields.io/badge/LLM-GPT--4-purple)
 
 ---
 
 ## 🚀 Highlight Projects
 
-### 🎥 AI Powered Video Generator
-> A Python + OpenAI-based tool that converts text prompts into livestream-style videos using AI avatars.  
-Tech Stack: Python, OpenAI API, HTML, CSS, JavaScript
+### 🎥 AI-Powered Video Generator
+> A Python + OpenAI-based system that converts text prompts into livestream-style videos using AI avatars and audio.  
+**Includes:** Prompt engineering, GPT integration, scalable microservice structure  
+**Tech Stack:** Python, OpenAI API, Node.js, React, Docker
 
 ---
 
 ### 🔐 Information Security Management System
-> Full-featured Laravel platform to manage ISO 27001 compliance, risk audits, document controls, and role-based access.  
-Tech Stack: Laravel, MySQL, JavaScript, Bootstrap  
-🔑 Features: RBAC, audit logging, dashboard reporting, asset risk workflows.
+> Full-featured Laravel platform with RBAC, compliance workflows, audit logging, and CI/CD.  
+**Includes:** Role-based access, microservice-oriented API design, Postman-tested endpoints  
+**Tech Stack:** Laravel, MySQL, GitHub Actions, Bootstrap, Docker
 
 ---
 
 ### 🐸 Robotic Amphibian Lake Sensor
 > A floating robot (Arduino + JS) with 6 environmental sensors to measure water safety and transmit live data.  
-Tech Stack: C++, Arduino Nano, JavaScript  
+**Tech Stack:** C++, Arduino Nano, JavaScript  
 🧪 Metrics: pH, turbidity, temp, ecosystem safety for aquatic species.
 
 ---
@@ -80,9 +91,11 @@ Tech Stack: C++, Arduino Nano, JavaScript
 ---
 
 ## 🎯 Currently Exploring
-- 🤖 Building production-grade AI bots with RAG + GPT-4
-- 🌐 Exploring Vite, Automation and serverless architectures
-- 🧠 Reading about system design & large-scale architecture
+
+- 🤖 Building production-grade AI tools using **LangChain**, **RAG**, and **GPT-4**
+- ⚙️ Deepening my use of **CI/CD pipelines**, **Dockerized deployments**, and **microservice patterns**
+- 🌐 Scaling apps with **Next.js**, **Vite**, and serverless deployments via **AWS/GCP**
+- 🧠 Learning about **Transformer models**, **embedding search**, and **vector similarity search**
 
 ---
 
