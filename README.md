@@ -103,7 +103,8 @@ I specialize in **PHP**, **JavaScript**, **Node.js**, and modern **AI/LLM soluti
 - 💼 [LinkedIn](https://www.linkedin.com/in/jhunes-encarguez-3ba806171/)
 - 🧑‍💻 [GitHub](https://github.com/guileston13)
 - ✉️ jhunesencarguez@gmail.com
-- [CV]([https://github.com/guileston13](https://drive.google.com/file/d/1B9Lk8FJDbeHNZ8wVuixhTCeWE3VhcORz/view?usp=sharing))
+- 📄 [CV](https://drive.google.com/file/d/1B9Lk8FJDbeHNZ8wVuixhTCeWE3VhcORz/view?usp=sharing)
+
 ---
 
 <p align="center">Built with 💻, ☕, and a bit of AI magic ✨</p>
