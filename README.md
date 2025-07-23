@@ -11,7 +11,7 @@
 
 Hi, I'm **Jhunes**, a passionate and versatile full-stack developer with **6+ years** of experience building **microservices**, **RESTful API integrations**, and scalable systems using technologies like **Docker**, **CI/CD pipelines**, and **AWS/GCP** cloud platforms.
 
-I specialize in **PHP**, **JavaScript**, **Node.js**, and modern **AI/LLM solutions** like **GPT-4**, **LangChain**, and **Transformer models**. Recently, I've been focused on **prompt engineering**, **vector database integration**, and building real-world AI products using **Python**, **TFLite**, and **Next.js**.
+I specialize in **PHP**, **JavaScript**, **Node.js**, and modern **AI/LLM solutions** like **GPT-4**, **LangChain**, and **Transformer models**. Recently, I've been focused on **prompt engineering**, **vector database integration**, and building real-world AI products using **Python**, **TFLite**
 
 - 🧠 Loves solving real-world problems using code and machine intelligence  
 - ⚙️ Obsessed with clean backend architecture and high-performance API design  
@@ -35,7 +35,6 @@ I specialize in **PHP**, **JavaScript**, **Node.js**, and modern **AI/LLM soluti
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
 **Databases & DevOps:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
