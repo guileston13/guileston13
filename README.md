@@ -11,7 +11,7 @@
 
 Hi, I'm **Jhunes**, a passionate and versatile full-stack developer with **6+ years** of experience building **microservices**, **RESTful API integrations**, and scalable systems using technologies like **Docker**, **CI/CD pipelines**, and **AWS/GCP** cloud platforms.
 
-I specialize in **PHP**, **JavaScript**, **React**, **Node.js**, and modern **AI/LLM solutions** like **GPT-4**, **LangChain**, and **Transformer models**. Recently, I've been focused on **prompt engineering**, **vector database integration**, and building real-world AI products using **Python**, **TFLite**, and **Next.js**.
+I specialize in **PHP**, **JavaScript**, **Node.js**, and modern **AI/LLM solutions** like **GPT-4**, **LangChain**, and **Transformer models**. Recently, I've been focused on **prompt engineering**, **vector database integration**, and building real-world AI products using **Python**, **TFLite**, and **Next.js**.
 
 - 🧠 Loves solving real-world problems using code and machine intelligence  
 - ⚙️ Obsessed with clean backend architecture and high-performance API design  
