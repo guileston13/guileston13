@@ -33,7 +33,6 @@ I specialize in **PHP**, **JavaScript**, **Node.js**, and modern **AI/LLM soluti
 ![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=flat&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-E44D26?style=flat&logo=codeigniter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
 
 **Databases & DevOps:**  
