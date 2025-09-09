@@ -58,7 +58,7 @@ I specialize in **PHP**, **JavaScript**, **Node.js**, and modern **AI/LLM soluti
 ### 🎥 AI-Powered Video Generator
 > A Python + OpenAI-based system that converts text prompts into livestream-style videos using AI avatars and audio.  
 **Includes:** Prompt engineering, GPT integration, scalable microservice structure  
-**Tech Stack:** Python, OpenAI API, Node.js, React, Docker
+**Tech Stack:** Python, OpenAI API, Node.js, Docker
 
 ---
 
