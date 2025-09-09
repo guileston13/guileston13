@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Jhunes Encarguez</h1>
-<h3 align="center">🧑‍💻 Full-Stack Web & AI Developer | PHP, Node, React, AI Systems 🚀</h3>
+<h3 align="center">🧑‍💻 Full-Stack Web & AI Developer | PHP, Node, AI Systems 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Innovative%20Full-stack%20Developer;AI-Powered%20Solutions%20Builder;Backend%20Wizard%20%F0%9F%9A%80;Always%20Learning%20New%20Things%20%E2%9C%A8&center=true&width=600&height=45&pause=1000&color=F97316&vCenter=true&size=22" />
